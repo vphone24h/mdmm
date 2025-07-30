@@ -1,0 +1,183 @@
+2025-06-26 17:03:01,694 INFO Fukey.App 0  =====Tenorshare 4uKey 3.0.7.6 of TS has started. =====  
+2025-06-26 17:03:02,924 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Start receiving device message.  
+2025-06-26 17:03:02,981 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog ?????, ????-4  
+2025-06-26 17:03:02,983 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog ?????, ????-4  
+2025-06-26 17:03:02,984 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog ?????, ????-4  
+2025-06-26 17:03:03,757 INFO Fukey.Helper.DllChecker 0  AgentSupportCLR.dll:1.0.0.9|AppService.dll:1.2.25.0|CommonRegister.dll:2.0.1.99|DllWrapper.dll:0.0.0.0|ios_manager.dll:5.0.0.55|IosManager.dll:0.0.0.0|irestore.exe:6.0.0.11|itunes_manager.dll:5.0.0.55|iTunesDecrypt.dll:1.0.0.1|iTunesEnvFitCLR.dll:1.0.0.23|iTunesLibrary.dll:0.0.0.0|iTunesRepair.dll:1.0.0.1|MobileDevice.dll:1368.12.2.1|Register.dll:1.0.1.15|RegisterAndLog.dll:2.0.11.0|reiboot.dll:6.0.0.11|SoftwareLog.dll:3.0.0.22|TS.Common.dll:1.0.0.82|TS.UI.dll:1.2.2.2446|ts_base.dll:5.0.0.55|ts_client.dll:5.0.0.55|UpdaterCLR.dll:1.0.1.17|  
+2025-06-26 17:03:03,787 INFO AppService.Component.LanguageService 0  Microsoft\Windows\CurrentVersion\Uninstall\{Tenorshare 4uKey}_is1 is not found.  
+2025-06-26 17:03:05,021 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MainView  
+2025-06-26 17:03:05,351 INFO AppService.Component.LanguageService 0  Microsoft\Windows\CurrentVersion\Uninstall\{Tenorshare 4uKey}_is1 is not found.  
+2025-06-26 17:03:05,675 INFO Fukey.Srvices.iTunesService 0  Find itunes : HasOfficialiTunes  
+2025-06-26 17:03:05,678 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:03:05,686 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:03:05,690 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:03:05,772 INFO Fukey.Srvices.DeviceService+<IosManagerConnect>d__28 0  Init ios manager.  
+2025-06-26 17:03:06,428 INFO Fukey.Srvices.DeviceService 0  Register device connection listener.  
+2025-06-26 17:03:18,726 INFO Fukey.Srvices.DeviceService 0  On trust connect start.  
+2025-06-26 17:03:19,064 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 NeedTrust.  
+2025-06-26 17:03:19,065 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:03:19,065 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:03:19,066 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:03:19,066 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:03:29,163 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:03:29,188 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.RemoverPasswordView.RemoverPasswordExplainView  
+2025-06-26 17:04:04,145 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:04:04,147 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:04:04,149 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:04:04,160 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.DFU_RecoveryView.RecoveryGuideView  
+2025-06-26 17:04:08,660 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:04:08,693 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.DFU_RecoveryView.DFUGuideView  
+2025-06-26 17:04:18,507 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:06:06,790 INFO Fukey.Srvices.DeviceService 0  On normal disconnect success.  
+2025-06-26 17:06:06,868 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 disconnected.  
+2025-06-26 17:06:07,028 ERROR Fukey.Srvices.DeviceService 0  On normal connect failed, error -2.  
+2025-06-26 17:06:27,110 INFO Fukey.Srvices.DeviceService 0  On trust connect start.  
+2025-06-26 17:06:27,164 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 NeedTrust.  
+2025-06-26 17:06:27,164 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:06:27,165 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:06:27,165 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:06:27,165 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:06:34,847 INFO Fukey.Srvices.DeviceService 0  On trust connect finish. Device has been trusted? True  
+2025-06-26 17:06:34,928 INFO Fukey.Srvices.DeviceService 0  On normal connect success.  
+2025-06-26 17:06:35,117 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 Connected.  
+2025-06-26 17:06:46,501 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.DFU_RecoveryView.RecoveryGuideView  
+2025-06-26 17:07:35,107 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.RemoverPasswordView.RemoverPasswordExplainView  
+2025-06-26 17:07:36,809 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:07:36,870 INFO Fukey.Srvices.DeviceService 0  Check device actived True  
+2025-06-26 17:07:36,871 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:07:36,877 INFO Fukey.Srvices.DeviceService 0  Check device actived True  
+2025-06-26 17:07:36,891 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.RemoverPasswordView.VerifyFirmwareView  
+2025-06-26 17:07:37,512 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:07:47,654 ERROR Fukey.Srvices.Firmware.FirmwareService 0  Get firmware from IpswMeV2 failed. System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at Fukey.Srvices.Firmware.FirmwareService.GetFirmwareDataFromIpswMeV2(String deviceType)
+ 
+2025-06-26 17:07:57,671 ERROR Fukey.Srvices.Firmware.FirmwareService 0  Get firmware from IpswMeV2 failed. System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at Fukey.Srvices.Firmware.FirmwareService.GetFirmwareDataFromIpswMeV2(String deviceType)
+ 
+2025-06-26 17:08:07,697 ERROR Fukey.Srvices.Firmware.FirmwareService 0  Get firmware info from IpswMeV4 failed System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at Fukey.Srvices.Firmware.FirmwareService.GetFirmwareDataFromIpswMeV4(String deviceType)
+ 
+2025-06-26 17:08:12,985 INFO Fukey.MainWindow 0  Close window.  
+2025-06-26 17:08:12,996 INFO Fukey.Srvices.DeviceService 0  Close device connection.   
+2025-06-26 17:08:13,026 INFO Fukey.Srvices.DeviceService+<IosManagerConnect>d__28 0  Unregister device connection listener.  
+2025-06-26 17:08:13,091 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Stop receiving device message.  
+2025-06-26 17:08:14,036 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:08:14,037 INFO Fukey.App 0  =====Tenorshare 4uKey exit. =====
+
+  
+2025-06-26 17:08:36,165 INFO Fukey.App 0  =====Tenorshare 4uKey 3.0.7.6 of TS has started. =====  
+2025-06-26 17:08:37,372 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Start receiving device message.  
+2025-06-26 17:08:37,411 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog ?????, ????-4  
+2025-06-26 17:08:37,413 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog ?????, ????-4  
+2025-06-26 17:08:37,414 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog ?????, ????-4  
+2025-06-26 17:08:38,204 INFO Fukey.Helper.DllChecker 0  AgentSupportCLR.dll:1.0.0.9|AppService.dll:1.2.25.0|CommonRegister.dll:2.0.1.99|DllWrapper.dll:0.0.0.0|ios_manager.dll:5.0.0.55|IosManager.dll:0.0.0.0|irestore.exe:6.0.0.11|itunes_manager.dll:5.0.0.55|iTunesDecrypt.dll:1.0.0.1|iTunesEnvFitCLR.dll:1.0.0.23|iTunesLibrary.dll:0.0.0.0|iTunesRepair.dll:1.0.0.1|MobileDevice.dll:1368.12.2.1|Register.dll:1.0.1.15|RegisterAndLog.dll:2.0.11.0|reiboot.dll:6.0.0.11|SoftwareLog.dll:3.0.0.22|TS.Common.dll:1.0.0.82|TS.UI.dll:1.2.2.2446|ts_base.dll:5.0.0.55|ts_client.dll:5.0.0.55|UpdaterCLR.dll:1.0.1.17|  
+2025-06-26 17:08:38,227 INFO AppService.Component.LanguageService 0  Microsoft\Windows\CurrentVersion\Uninstall\{Tenorshare 4uKey}_is1 is not found.  
+2025-06-26 17:08:38,300 ERROR Fukey.App 0  CheckWebPageUrlOnStart failed :WEB_PAGE_NONE  
+2025-06-26 17:08:39,359 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MainView  
+2025-06-26 17:08:39,699 INFO AppService.Component.LanguageService 0  Microsoft\Windows\CurrentVersion\Uninstall\{Tenorshare 4uKey}_is1 is not found.  
+2025-06-26 17:08:40,142 INFO Fukey.Srvices.iTunesService 0  Find itunes : HasOfficialiTunes  
+2025-06-26 17:08:40,145 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:08:40,146 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:08:40,151 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:08:40,276 INFO Fukey.Srvices.DeviceService+<IosManagerConnect>d__28 0  Init ios manager.  
+2025-06-26 17:08:41,321 INFO Fukey.Srvices.DeviceService 0  Register device connection listener.  
+2025-06-26 17:09:40,491 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:09:40,491 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:09:40,499 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.ConnectView  
+2025-06-26 17:09:50,035 INFO Fukey.Srvices.DeviceService 0  On normal connect success.  
+2025-06-26 17:09:50,225 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 Connected.  
+2025-06-26 17:09:50,226 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:09:50,227 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:09:50,227 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:09:50,227 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:09:50,241 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MDMView.MDMBypassingExplainView  
+2025-06-26 17:10:46,632 INFO Fukey.Srvices.DeviceService 0  On normal disconnect success.  
+2025-06-26 17:10:46,802 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 disconnected.  
+2025-06-26 17:10:46,806 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.ConnectView  
+2025-06-26 17:11:05,696 INFO Fukey.Srvices.DeviceService 0  On normal connect success.  
+2025-06-26 17:11:06,712 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 Connected.  
+2025-06-26 17:11:06,713 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:11:06,713 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:11:06,713 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:11:06,714 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:11:06,716 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MDMView.MDMBypassingExplainView  
+2025-06-26 17:11:23,755 INFO Fukey.Srvices.DeviceService 0  On normal disconnect success.  
+2025-06-26 17:11:23,796 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 disconnected.  
+2025-06-26 17:11:23,799 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.ConnectView  
+2025-06-26 17:11:41,398 INFO Fukey.Srvices.DeviceService 0  On normal connect success.  
+2025-06-26 17:11:41,880 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 Connected.  
+2025-06-26 17:11:41,881 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:11:41,881 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:11:41,882 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:11:41,882 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:11:41,886 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MDMView.MDMBypassingExplainView  
+2025-06-26 17:12:00,276 INFO Fukey.Srvices.DeviceService 0  On normal disconnect success.  
+2025-06-26 17:12:00,350 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 disconnected.  
+2025-06-26 17:12:00,354 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.ConnectView  
+2025-06-26 17:12:18,630 INFO Fukey.Srvices.DeviceService 0  On normal connect success.  
+2025-06-26 17:12:19,499 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 Connected.  
+2025-06-26 17:12:19,500 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:12:19,501 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:12:19,501 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:12:19,502 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:12:19,508 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MDMView.MDMBypassingExplainView  
+2025-06-26 17:13:27,168 INFO Fukey.Srvices.DeviceService 0  On normal disconnect success.  
+2025-06-26 17:13:27,197 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 disconnected.  
+2025-06-26 17:13:27,200 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.ConnectView  
+2025-06-26 17:13:49,540 INFO Fukey.Srvices.DeviceService 0  On normal connect success.  
+2025-06-26 17:13:49,901 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 Connected.  
+2025-06-26 17:13:49,902 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:13:49,902 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:13:49,902 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:13:49,903 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:13:49,905 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MDMView.MDMBypassingExplainView  
+2025-06-26 17:15:43,276 INFO Fukey.Srvices.DeviceService 0  On normal disconnect success.  
+2025-06-26 17:15:43,469 INFO Fukey.Srvices.DeviceService 0  iPhone-H4YJD7QD0DXP(iPhone 12) 18.5 disconnected.  
+2025-06-26 17:15:43,471 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.ConnectView  
+2025-06-26 17:15:50,028 INFO Fukey.Srvices.DeviceService 0  On recovery connect success.  
+2025-06-26 17:15:50,089 INFO Fukey.Srvices.DeviceService 0  iPhone 12  RecoveryConnected.  
+2025-06-26 17:15:50,089 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:15:50,090 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:15:51,125 INFO Fukey.Srvices.DeviceService 0  On recovery disconnect success.  
+2025-06-26 17:15:51,296 INFO Fukey.Srvices.DeviceService 0  iPhone 12  disconnected.  
+2025-06-26 17:15:52,189 INFO Fukey.Srvices.DeviceService 0  On recovery connect success.  
+2025-06-26 17:15:52,301 INFO Fukey.Srvices.DeviceService 0  iPhone 12  RecoveryConnected.  
+2025-06-26 17:15:52,301 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:15:52,301 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:16:09,264 INFO Fukey.Srvices.DeviceService 0  On recovery disconnect success.  
+2025-06-26 17:16:09,357 INFO Fukey.Srvices.DeviceService 0  iPhone 12  disconnected.  
+2025-06-26 17:16:19,618 ERROR Fukey.Srvices.DeviceService 0  On normal connect failed, error -402653144.  
+2025-06-26 17:22:37,202 ERROR Fukey.Srvices.DeviceService 0  On normal disconnect failed, error -402653176.  
+2025-06-26 17:23:20,669 INFO Fukey.Srvices.DeviceService 0  On normal connect success.  
+2025-06-26 17:23:20,888 INFO Fukey.Srvices.DeviceService 0  iPhone(iPhone 12) 18.5 Connected.  
+2025-06-26 17:23:20,889 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:23:20,889 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:23:20,889 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:23:20,890 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:23:20,892 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MDMView.MDMBypassingExplainView  
+2025-06-26 17:24:37,195 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:24:37,250 INFO Fukey.Srvices.DeviceService 0  Check device actived False  
+2025-06-26 17:24:37,251 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:24:37,259 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.CommonView.DeviceNotActivaView  
+2025-06-26 17:24:37,292 INFO Fukey.Srvices.DeviceService 0  device IsSupportJailbreak = False  
+2025-06-26 17:24:40,262 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MainView  
+2025-06-26 17:24:41,099 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:24:41,105 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.RemoverPasswordView.RemoverPasswordExplainView  
+2025-06-26 17:24:43,187 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:24:43,205 INFO Fukey.Srvices.DeviceService 0  Check device actived False  
+2025-06-26 17:24:43,206 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:24:43,240 INFO Fukey.Srvices.DeviceService 0  Check device actived False  
+2025-06-26 17:24:43,244 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.CommonView.DeviceNotActivaView  
+2025-06-26 17:24:43,245 INFO Fukey.Srvices.DeviceService 0  device IsSupportJailbreak = False  
+2025-06-26 17:25:39,797 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MainView  
+2025-06-26 17:25:41,840 INFO Fukey.MainWindow 0  Close window.  
+2025-06-26 17:25:41,854 INFO Fukey.Srvices.DeviceService 0  Close device connection.   
+2025-06-26 17:25:41,873 INFO Fukey.Srvices.DeviceService+<IosManagerConnect>d__28 0  Unregister device connection listener.  
+2025-06-26 17:25:41,917 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Stop receiving device message.  
+2025-06-26 17:25:42,884 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = Safe handle has been closed  
+2025-06-26 17:25:42,886 INFO Fukey.App 0  =====Tenorshare 4uKey exit. =====
+
+  

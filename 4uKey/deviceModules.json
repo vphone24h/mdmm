@@ -1,0 +1,350 @@
+﻿[
+  {
+    "ModuleName": "iPad4,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad4,2",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad4,3",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad4,4",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad4,5",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad4,6",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad4,7",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad4,8",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad4,9",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad5,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad5,2",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad5,3",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad5,4",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad6,3",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad6,4",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad6,7",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad6,8",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad6,11",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad6,12",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad7,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad7,2",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad7,3",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad7,4",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad7,5",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad7,6",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad7,11",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad7,12",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad8,5",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad8,6",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad8,7",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPad8,8",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone1,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone1,2",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone2,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone3,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone3,2",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone3,3",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone4,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone7,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone7,2",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone8,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone8,2",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone8,4",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone9,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone9,2",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone9,3",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone9,4",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone10,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone10,4",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone10,2",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone10,5",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone10,3",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone10,6",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPhone11,2",
+    "IsSupportJailbreak": false
+  },
+  {
+    "ModuleName": "iPhone11,4",
+    "IsSupportJailbreak": false
+  },
+  {
+    "ModuleName": "iPhone11,6",
+    "IsSupportJailbreak": false
+  },
+  {
+    "ModuleName": "iPhone11,8",
+    "IsSupportJailbreak": false
+  },
+  {
+    "ModuleName": "iPhone12,1",
+    "IsSupportJailbreak": false
+  },
+  {
+    "ModuleName": "iPhone12,3",
+    "IsSupportJailbreak": false
+  },
+  {
+    "ModuleName": "iPhone12,5",
+    "IsSupportJailbreak": false
+  },
+  {
+    "ModuleName": "iPhone12,8",
+    "IsSupportJailbreak": false
+  },
+  {
+    "ModuleName": "iPhone13,1",
+    "IsSupportJailbreak": false
+  },
+  {
+    "ModuleName": "iPhone13,2",
+    "IsSupportJailbreak": false
+  },
+  {
+    "ModuleName": "iPhone13,3",
+    "IsSupportJailbreak": false
+  },
+  {
+    "ModuleName": "iPhone13,4",
+    "IsSupportJailbreak": false
+  },
+  {
+    "ModuleName": "iPod9,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPod7,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "iPod6,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch1,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch1,2",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch2,6",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch2,7",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch2,3",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch2,4",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch3,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch3,2",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch3,3",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch3,4",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch4,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch4,2",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch4,3",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "Watch4,4",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "AppleTV2,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "AppleTV3,1",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "AppleTV3,2",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "AppleTV5,3",
+    "IsSupportJailbreak": true
+  },
+  {
+    "ModuleName": "AppleTV6,2",
+    "IsSupportJailbreak": true
+  }
+]

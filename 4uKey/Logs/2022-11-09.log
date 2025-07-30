@@ -1,0 +1,69 @@
+2022-11-09 17:57:22,375 INFO Fukey.App 0  =====Tenorshare 4uKey 3.0.7.6 of TS has started. =====  
+2022-11-09 17:57:23,158 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Start receiving device message.  
+2022-11-09 17:57:23,222 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog 初始化异常, 错误码是-4  
+2022-11-09 17:57:23,224 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog 初始化异常, 错误码是-4  
+2022-11-09 17:57:23,225 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog 初始化异常, 错误码是-4  
+2022-11-09 17:57:23,232 INFO Fukey.Helper.DllChecker 0  AgentSupportCLR.dll:1.0.0.9|AppService.dll:1.2.25.0|CommonRegister.dll:2.0.1.99|DllWrapper.dll:0.0.0.0|ios_manager.dll:5.0.0.55|IosManager.dll:0.0.0.0|irestore.exe:6.0.0.11|itunes_manager.dll:5.0.0.55|iTunesDecrypt.dll:1.0.0.1|iTunesEnvFitCLR.dll:1.0.0.23|iTunesLibrary.dll:0.0.0.0|iTunesRepair.dll:1.0.0.1|MobileDevice.dll:1368.12.2.1|Register.dll:1.0.1.15|RegisterAndLog.dll:2.0.11.0|reiboot.dll:6.0.0.11|SoftwareLog.dll:3.0.0.22|TS.Common.dll:1.0.0.82|TS.UI.dll:1.2.2.2446|ts_base.dll:5.0.0.55|ts_client.dll:5.0.0.55|UpdaterCLR.dll:1.0.1.17|  
+2022-11-09 17:57:23,338 ERROR Fukey.App 0  CheckWebPageUrlOnStart failed :WEB_PAGE_NONE  
+2022-11-09 17:57:24,256 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MainView  
+2022-11-09 17:57:24,746 INFO Fukey.Srvices.iTunesService 0  Find itunes : HasOfficialiTunes  
+2022-11-09 17:57:24,750 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 17:57:24,759 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 17:57:24,763 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 17:57:24,863 INFO Fukey.Srvices.DeviceService+<IosManagerConnect>d__28 0  Init ios manager.  
+2022-11-09 17:57:24,971 INFO Fukey.Srvices.DeviceService 0  Register device connection listener.  
+2022-11-09 17:57:27,025 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 17:57:29,916 INFO Fukey.MainWindow 0  Close window.  
+2022-11-09 17:57:29,925 INFO Fukey.Srvices.DeviceService 0  Close device connection.   
+2022-11-09 17:57:29,984 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Stop receiving device message.  
+2022-11-09 17:57:30,964 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 17:57:30,966 INFO Fukey.App 0  =====Tenorshare 4uKey exit. =====
+
+  
+2022-11-09 17:59:25,952 INFO Fukey.App 0  =====Tenorshare 4uKey 3.0.7.6 of TS has started. =====  
+2022-11-09 17:59:26,662 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Start receiving device message.  
+2022-11-09 17:59:26,702 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog 初始化异常, 错误码是-4  
+2022-11-09 17:59:26,704 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog 初始化异常, 错误码是-4  
+2022-11-09 17:59:26,705 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog 初始化异常, 错误码是-4  
+2022-11-09 17:59:26,711 INFO Fukey.Helper.DllChecker 0  AgentSupportCLR.dll:1.0.0.9|AppService.dll:1.2.25.0|CommonRegister.dll:2.0.1.99|DllWrapper.dll:0.0.0.0|ios_manager.dll:5.0.0.55|IosManager.dll:0.0.0.0|irestore.exe:6.0.0.11|itunes_manager.dll:5.0.0.55|iTunesDecrypt.dll:1.0.0.1|iTunesEnvFitCLR.dll:1.0.0.23|iTunesLibrary.dll:0.0.0.0|iTunesRepair.dll:1.0.0.1|MobileDevice.dll:1368.12.2.1|Register.dll:1.0.1.15|RegisterAndLog.dll:2.0.11.0|reiboot.dll:6.0.0.11|SoftwareLog.dll:3.0.0.22|TS.Common.dll:1.0.0.82|TS.UI.dll:1.2.2.2446|ts_base.dll:5.0.0.55|ts_client.dll:5.0.0.55|UpdaterCLR.dll:1.0.1.17|  
+2022-11-09 17:59:26,769 ERROR Fukey.App 0  CheckWebPageUrlOnStart failed :WEB_PAGE_NONE  
+2022-11-09 17:59:27,070 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MainView  
+2022-11-09 17:59:27,428 INFO Fukey.Srvices.iTunesService 0  Find itunes : HasOfficialiTunes  
+2022-11-09 17:59:27,430 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 17:59:27,438 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 17:59:27,444 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 17:59:27,534 INFO Fukey.Srvices.DeviceService+<IosManagerConnect>d__28 0  Init ios manager.  
+2022-11-09 17:59:27,641 INFO Fukey.Srvices.DeviceService 0  Register device connection listener.  
+2022-11-09 17:59:29,325 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 17:59:29,329 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 17:59:29,345 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.ConnectView  
+2022-11-09 17:59:30,364 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 17:59:38,155 INFO Fukey.MainWindow 0  Close window.  
+2022-11-09 17:59:38,162 INFO Fukey.Srvices.DeviceService 0  Close device connection.   
+2022-11-09 17:59:38,299 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Stop receiving device message.  
+2022-11-09 17:59:39,179 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 17:59:39,180 INFO Fukey.App 0  =====Tenorshare 4uKey exit. =====
+
+  
+2022-11-09 18:11:42,129 INFO Fukey.App 0  =====Tenorshare 4uKey 3.0.7.6 of TS has started. =====  
+2022-11-09 18:11:42,840 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Start receiving device message.  
+2022-11-09 18:11:42,879 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog 初始化异常, 错误码是-4  
+2022-11-09 18:11:42,881 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog 初始化异常, 错误码是-4  
+2022-11-09 18:11:42,882 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = weblog 初始化异常, 错误码是-4  
+2022-11-09 18:11:42,889 INFO Fukey.Helper.DllChecker 0  AgentSupportCLR.dll:1.0.0.9|AppService.dll:1.2.25.0|CommonRegister.dll:2.0.1.99|DllWrapper.dll:0.0.0.0|ios_manager.dll:5.0.0.55|IosManager.dll:0.0.0.0|irestore.exe:6.0.0.11|itunes_manager.dll:5.0.0.55|iTunesDecrypt.dll:1.0.0.1|iTunesEnvFitCLR.dll:1.0.0.23|iTunesLibrary.dll:0.0.0.0|iTunesRepair.dll:1.0.0.1|MobileDevice.dll:1368.12.2.1|Register.dll:1.0.1.15|RegisterAndLog.dll:2.0.11.0|reiboot.dll:6.0.0.11|SoftwareLog.dll:3.0.0.22|TS.Common.dll:1.0.0.82|TS.UI.dll:1.2.2.2446|ts_base.dll:5.0.0.55|ts_client.dll:5.0.0.55|UpdaterCLR.dll:1.0.1.17|  
+2022-11-09 18:11:42,948 ERROR Fukey.App 0  CheckWebPageUrlOnStart failed :WEB_PAGE_NONE  
+2022-11-09 18:11:43,214 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MainView  
+2022-11-09 18:11:43,547 INFO Fukey.Srvices.iTunesService 0  Find itunes : HasOfficialiTunes  
+2022-11-09 18:11:43,548 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 18:11:43,562 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 18:11:43,566 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 18:11:43,653 INFO Fukey.Srvices.DeviceService+<IosManagerConnect>d__28 0  Init ios manager.  
+2022-11-09 18:11:43,745 INFO Fukey.Srvices.DeviceService 0  Register device connection listener.  
+2022-11-09 18:11:45,033 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 18:14:50,681 INFO Fukey.MainWindow 0  Close window.  
+2022-11-09 18:14:50,691 INFO Fukey.Srvices.DeviceService 0  Close device connection.   
+2022-11-09 18:14:50,730 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Stop receiving device message.  
+2022-11-09 18:14:51,708 ERROR Fukey.Helper.GAHelper 0  GAHelper.SendGAReport:error = 已关闭 Safe handle  
+2022-11-09 18:14:51,708 INFO Fukey.App 0  =====Tenorshare 4uKey exit. =====
+
+  

@@ -1,0 +1,28 @@
+2022-10-29 10:29:20,099 INFO Fukey.App 0  =====Tenorshare 4uKey 3.0.7.6 of TS has started. =====  
+2022-10-29 10:29:21,037 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Start receiving device message.  
+2022-10-29 10:29:21,100 INFO Fukey.Helper.DllChecker 0  AgentSupportCLR.dll:1.0.0.9|AppService.dll:1.2.25.0|CommonRegister.dll:2.0.1.51|DllWrapper.dll:0.0.0.0|ios_manager.dll:5.0.0.55|IosManager.dll:0.0.0.0|irestore.exe:6.0.0.11|itunes_manager.dll:5.0.0.55|iTunesDecrypt.dll:1.0.0.1|iTunesEnvFitCLR.dll:1.0.0.23|iTunesLibrary.dll:0.0.0.0|iTunesRepair.dll:1.0.0.1|MobileDevice.dll:1368.12.2.1|Register.dll:1.0.1.15|RegisterAndLog.dll:1.2.28.0|reiboot.dll:6.0.0.11|SoftwareLog.dll:3.0.0.22|TS.Common.dll:1.0.0.82|TS.UI.dll:1.2.2.2446|ts_base.dll:5.0.0.55|ts_client.dll:5.0.0.55|UpdaterCLR.dll:1.0.1.17|  
+2022-10-29 10:29:21,194 ERROR Fukey.App 0  CheckWebPageUrlOnStart failed :WEB_PAGE_NONE  
+2022-10-29 10:29:22,037 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MainView  
+2022-10-29 10:29:22,553 INFO Fukey.Srvices.iTunesService 0  Find itunes : HasOfficialiTunes  
+2022-10-29 10:29:22,668 INFO Fukey.Srvices.DeviceService+<IosManagerConnect>d__28 0  Init ios manager.  
+2022-10-29 10:29:23,385 INFO Fukey.Srvices.DeviceService 0  Register device connection listener.  
+2022-10-29 10:29:28,616 INFO Fukey.MainWindow 0  Close window.  
+2022-10-29 10:29:28,628 INFO Fukey.Srvices.DeviceService 0  Close device connection.   
+2022-10-29 10:29:28,689 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Stop receiving device message.  
+2022-10-29 10:29:29,640 INFO Fukey.App 0  =====Tenorshare 4uKey exit. =====
+
+  
+2022-10-29 10:30:19,432 INFO Fukey.App 0  =====Tenorshare 4uKey 3.0.7.6 of TS has started. =====  
+2022-10-29 10:30:20,278 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Start receiving device message.  
+2022-10-29 10:30:20,309 INFO Fukey.Helper.DllChecker 0  AgentSupportCLR.dll:1.0.0.9|AppService.dll:1.2.25.0|CommonRegister.dll:2.0.1.51|DllWrapper.dll:0.0.0.0|ios_manager.dll:5.0.0.55|IosManager.dll:0.0.0.0|irestore.exe:6.0.0.11|itunes_manager.dll:5.0.0.55|iTunesDecrypt.dll:1.0.0.1|iTunesEnvFitCLR.dll:1.0.0.23|iTunesLibrary.dll:0.0.0.0|iTunesRepair.dll:1.0.0.1|MobileDevice.dll:1368.12.2.1|Register.dll:1.0.1.15|RegisterAndLog.dll:1.2.28.0|reiboot.dll:6.0.0.11|SoftwareLog.dll:3.0.0.22|TS.Common.dll:1.0.0.82|TS.UI.dll:1.2.2.2446|ts_base.dll:5.0.0.55|ts_client.dll:5.0.0.55|UpdaterCLR.dll:1.0.1.17|  
+2022-10-29 10:30:20,377 ERROR Fukey.App 0  CheckWebPageUrlOnStart failed :WEB_PAGE_NONE  
+2022-10-29 10:30:20,777 INFO Fukey.MainWindow 0  Navigate to Fukey.Views.MainView  
+2022-10-29 10:30:21,228 INFO Fukey.Srvices.iTunesService 0  Find itunes : HasOfficialiTunes  
+2022-10-29 10:30:21,343 INFO Fukey.Srvices.DeviceService+<IosManagerConnect>d__28 0  Init ios manager.  
+2022-10-29 10:30:21,468 INFO Fukey.Srvices.DeviceService 0  Register device connection listener.  
+2022-10-29 10:30:38,893 INFO Fukey.MainWindow 0  Close window.  
+2022-10-29 10:30:38,907 INFO Fukey.Srvices.DeviceService 0  Close device connection.   
+2022-10-29 10:30:38,987 INFO Fukey.Srvices.DeviceService+<>c__DisplayClass26_0 0  Stop receiving device message.  
+2022-10-29 10:30:39,919 INFO Fukey.App 0  =====Tenorshare 4uKey exit. =====
+
+  
